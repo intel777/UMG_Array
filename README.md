@@ -1,4 +1,4 @@
-# Universal Media Group List
+# Universal Music Group List
 Machine-readable Universal Music Group artist list for usage in copyright-friendly enviroment (ex. Telegram channel bots to filter UMG music.)<br>
 File consists with standart Python array-like umg_artists = ["artist", "artist2", "artist3", ...] <br>
 Based on Support message from Telegram with copyright strike<br>
